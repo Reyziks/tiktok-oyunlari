@@ -1,3 +1,13 @@
 {
-  "games": []
+  "games": [
+    {
+      "id": "halat-cekme",
+      "name": "Halat Çekme",
+      "description": "Mavi ve Kırmızı takım beğeni, yorum ve hediyeyle halatı kendine çeker.",
+      "icon": "🪢",
+      "version": "1.0.0",
+      "file": "oyunlar/halat-cekme-1.0.0.zip",
+      "sha256": "685b9b4b75629a107d4ab9378246e605f6365daff1d4f7e674a9a4cfa1417953"
+    }
+  ]
 }
