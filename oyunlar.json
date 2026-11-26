@@ -5,9 +5,9 @@
       "name": "Halat Çekme",
       "description": "Mavi Takım ile Kırmızı Takım beğeni, yorum ve hediyeyle halatı kendi tarafına çeker. Takımlar otomatik ve dengeli kurulur; kazanan süre bitince belli olur.",
       "icon": "🪢",
-      "version": "1.1.0",
-      "file": "oyunlar/halat-cekme-1.1.0.zip",
-      "sha256": "78b523a900abb58fb2bba299da29c31cf5151d28565e99ee2dbcc4c5ee9899f6"
+      "version": "1.2.0",
+      "file": "oyunlar/halat-cekme-1.2.0.zip",
+      "sha256": "c3ed82ee6dc2687b477bbfe15c4b17153fb47d4b4a1434b767522d8ca1405072"
     }
   ]
 }
