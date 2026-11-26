@@ -1,6 +1,15 @@
 {
   "games": [
     {
+      "id": "buyuk-yolculuk",
+      "name": "Büyük Yolculuk",
+      "description": "Herkes aynı gemiye biner ve güvertede kendi karakteriyle görünür. Beğeniler kürek çeker, hediyeler rüzgâr ve roket getirir. Fırtınaları ve deniz canavarını birlikte atlatıp limana varın.",
+      "icon": "⛵",
+      "version": "1.0.0",
+      "file": "oyunlar/buyuk-yolculuk-1.0.0.zip",
+      "sha256": "406901bf03d7c961ea034ea0e5156e8dc08babd6ff492072007337417c5fd6a9"
+    },
+    {
       "id": "canli-meydan",
       "name": "Canlı Meydan",
       "description": "Yayına giren herkes kendi fotoğraflı karakteriyle meydana gelir. Yorumlar konuşma balonu olur, beğeniler zıplatır, hediyeler meydanda kutlama başlatır. Birlikte enerji topladıkça meydan büyür.",
