@@ -26,6 +26,15 @@
       "version": "1.2.0",
       "file": "oyunlar/halat-cekme-1.2.0.zip",
       "sha256": "c3ed82ee6dc2687b477bbfe15c4b17153fb47d4b4a1434b767522d8ca1405072"
+    },
+    {
+      "id": "kagit-gemiler",
+      "name": "Kağıt Gemiler",
+      "description": "En çok etkileşim yapanlar kendi fotoğraflı kağıt gemileriyle derede yarışır. Beğeniler kürek çeker, hediyeler rüzgâr getirir. Dere ikiye ayrılınca yoruma SAĞ ya da SOL yazın: bir kol kısa yol, öteki girdap!",
+      "icon": "🛶",
+      "version": "1.0.0",
+      "file": "oyunlar/kagit-gemiler-1.0.0.zip",
+      "sha256": "4fccfb3ed93f8c1eb99d2b688a6fd130c3390777498bf895ec5dfc650b6a9816"
     }
   ]
 }
