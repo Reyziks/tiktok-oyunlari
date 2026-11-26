@@ -1,6 +1,15 @@
 {
   "games": [
     {
+      "id": "canli-meydan",
+      "name": "Canlı Meydan",
+      "description": "Yayına giren herkes kendi fotoğraflı karakteriyle meydana gelir. Yorumlar konuşma balonu olur, beğeniler zıplatır, hediyeler meydanda kutlama başlatır. Birlikte enerji topladıkça meydan büyür.",
+      "icon": "🎪",
+      "version": "1.0.0",
+      "file": "oyunlar/canli-meydan-1.0.0.zip",
+      "sha256": "651db1bd4d9e276484973334bde8a141f927fb0659a360245277c559d801dcdc"
+    },
+    {
       "id": "halat-cekme",
       "name": "Halat Çekme",
       "description": "Mavi Takım ile Kırmızı Takım beğeni, yorum ve hediyeyle halatı kendi tarafına çeker. Takımlar otomatik ve dengeli kurulur; kazanan süre bitince belli olur.",
