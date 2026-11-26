@@ -14,9 +14,9 @@
       "name": "Canlı Meydan",
       "description": "Yayına giren herkes kendi fotoğraflı karakteriyle meydana gelir. Yorumlar konuşma balonu olur, beğeniler zıplatır, hediyeler meydanda kutlama başlatır. Birlikte enerji topladıkça meydan büyür.",
       "icon": "🎪",
-      "version": "1.0.0",
-      "file": "oyunlar/canli-meydan-1.0.0.zip",
-      "sha256": "651db1bd4d9e276484973334bde8a141f927fb0659a360245277c559d801dcdc"
+      "version": "1.1.0",
+      "file": "oyunlar/canli-meydan-1.1.0.zip",
+      "sha256": "7b0b6e7e24e7685b6ca31376bf4671a7d7eaef7243841a82edaca3a42b02a851"
     },
     {
       "id": "halat-cekme",
